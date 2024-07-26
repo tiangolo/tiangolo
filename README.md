@@ -1,18 +1,14 @@
-### Hey! I'm [@tiangolo](https://twitter.com/tiangolo) (Sebastián Ramírez) 👋
+Hey! I'm **<a href="https://twitter.com/tiangolo" target="_blank">@tiangolo</a> (Sebastián Ramírez)**. 👋
 
 I'm a software developer from Colombia. 🇨🇴
 
 I currently live in Berlin, Germany. 🇩🇪
 
-I have been building APIs and tools for Machine Learning and data systems, in Latin America, the Middle East, and now Europe, with different teams and organizations. 🌎
+I created **<a href="https://fastapi.tiangolo.com" target="_blank">FastAPI</a>**, **<a href="https://typer.tiangolo.com" target="_blank">Typer</a>**, **<a href="https://sqlmodel.tiangolo.com" target="_blank">SQLModel</a>**, **<a href="https://asyncer.tiangolo.com" target="_blank">Asyncer</a>**, and a bunch of other open source tools. 🚀
 
-I created [**FastAPI**](https://fastapi.tiangolo.com/), [**Typer**](https://typer.tiangolo.com/) and a bunch of other open source tools. 🚀
+I have been building APIs and tools for Machine Learning and data systems, in the Americas, the Middle East, and Europe, with different teams and organizations. 🌎
 
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
-
-I'm currently dedicating a high percentage of my time to FastAPI, Typer, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your team and product, feel free to **contact me**. 🤓
-
-If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
+I'm now working full time on my open source projects and the ecosystem. 🤓
 
 You can find me on:
 
